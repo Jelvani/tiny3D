@@ -4,5 +4,6 @@ canvas {
     margin-left: auto;
     margin-right: auto;
     display: block;
+    cursor: url(dot.cur),auto;
 
 }
